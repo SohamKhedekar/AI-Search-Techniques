@@ -1,0 +1,3 @@
+# AI Search Techniques
+
+A programming assignment in which I applied AI search techniques to solve some sophisticated 3D Mazes. The goal of this mission is to send your sophisticated and intelligent agent from a specific entrance-location and travel as quickly as possible to an exit location. I was expected to develop three algorithms to find the optimal path and navigate through a complex 3D maze configuration based on a particular objective. (This was a deliverable for CS561 at USC. The homework description pdf can be found in the repository)
